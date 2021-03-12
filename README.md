@@ -7,8 +7,8 @@ All the stocks have ended with a end of year price bigger than a start of year p
 However, in 2018, most of the stocks have lost value and ended up in the red zone except for "ENPH" and "RUN" tikers.
 The DQ stock has gained value in 2017 but lost some value in 2018, so it is not the best choice for Steve's parents. the "ENPH" has gained value in both years and would be a better choice than "DQ", and RUN ticker comes in second place.
 
-The code execution times have been significantly reduced significanly when the code is refactored.For the year 2017, the timing has been reduced from 0.864 seconds to 0.230
-for the year 2018, the timing has been reduced from 0.998 seconds to 0.229 seconds.
+The code execution times have been significantly reduced significanly when the code is refactored.For the year 2017, the timing has been reduced from 0.864 (link: https://github.com/mdabbous88/Stock-Analysis/blob/main/Execution%20time%20of%202017_original%20code.png) seconds to 0.230 (resources.zip folder)
+for the year 2018, the timing has been reduced from 0.998 seconds (link: https://github.com/mdabbous88/Stock-Analysis/blob/main/Execution%20time%20of%202018_original%20code.png) to 0.229 seconds (Resources.zip folder).
 
 ##3)Summary
 1.a.The advantages of refactoring a code can be summarized as below
